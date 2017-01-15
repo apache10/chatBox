@@ -1,0 +1,15 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "smiple app for chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaurav",
+  "license": "ISC",
+  "dependencies":{
+  	"socket.io":"*",
+  	"express":"*"
+  }
+}
